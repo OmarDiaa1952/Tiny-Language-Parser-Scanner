@@ -20,7 +20,7 @@ until z = 20;
 write  y
 end 
 
-##Test Case 3:
+## Test Case 3:
 read x; { read xx;}
 if  x  < 0  then
 repeat
